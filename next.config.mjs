@@ -1,1 +1,1 @@
-export const output = "standalone"; 
+
